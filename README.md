@@ -77,19 +77,32 @@ FROM retail
 -Products are most commonly purchased together by customers in the dataset varries also.
 
 ###Recommendation
+
 -Products often boughtshould be made available more based on request
 -Stock with low request should be probe reason why and improvement strategies needs to be enployed for better sales.
 -Customers with high and frequent purchase of goods/stock should enjoy discount anually if possible. This would increase the good customer base. and increase the company's revenue
 
 ###Limitation
+
 -For the dataset to be uploaded successfully using the PSQL tool, StockCode, invoicedate and invoiceno were taged as INt as the datatype.
 -After a successful upload of the dataset, StockCode, invoicedate and invoiceno datatypeswere altered to varchar datatype.
 -Unitprice was rounded up to 2 decimal place
 -Ordevalue below 0 was excluded as this would give a negative result.
 
 ###References
+
 -Pandas documentation
 -youtube
+
+😂
+
+💻
+
+|Headings1|Heading2|
+|---------|--------|
+|Content|Content2|
+|Python|sql|
+
 
 
 
