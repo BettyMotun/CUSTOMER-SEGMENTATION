@@ -51,8 +51,9 @@ This involves exploring the retail data to answer key questions such as
 1. What is the distribution of order values across all customers in the dataset?
 2. How many unique products has each customer purchased?
 3. Which customers have only made a single purchase from the company?
-4. Which products are most commonly purchased together by customers in the
-dataset?
+4. Which products are most commonly purchased together by customers in the dataset?
+5. No visualication
+
 
 ###Data Analysis
 
@@ -70,7 +71,7 @@ FROM retail
 
 ###Results/Findings
 
--Most ordervalue ranges between 0 AND 500	whike ordervalue between 501 to 5000 and ordervalue between 50001 to 100000 are low
+-Most ordervalue ranges between 0 AND 500 whike ordervalue between 501 to 5000 and ordervalue between 50001 to 100000 are low
 -Unique products purchased by each customer varries from individual.
 -Findins shows that approximately a thousand customers have only made a single purchase from the company.
 -Products are most commonly purchased together by customers in the dataset varries also.
